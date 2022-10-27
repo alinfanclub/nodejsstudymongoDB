@@ -1,0 +1,25 @@
+{
+  "name": "mongodb_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinfanclub/nodejsstudymongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinfanclub/nodejsstudymongodb/issues"
+  },
+  "homepage": "https://github.com/alinfanclub/nodejsstudymongodb#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "faker": "^5.5.3",
+    "mongoose": "^6.7.0"
+  }
+}
